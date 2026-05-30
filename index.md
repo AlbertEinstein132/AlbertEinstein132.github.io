@@ -26,7 +26,7 @@ Ho Chi Minh City, Vietnam | [capminhhieu0705@gmail.com] | [github.com/AlbertEins
 **Algorithmic Network Flow & Graph Implementations** | *Academic Project*
 *   Solved complex network flow and pathfinding problems for a core Data Structures and Algorithms course.
 *   Computed and mapped out the Ford-Fulkerson method for MaxFlow, alongside Prim's and Kruskal's algorithms for Minimum Spanning Trees.
-
+**
 **E-Commerce Bookstore Architecture** | *Systems Design*
 *   Researched and documented the functional requirements and deployment strategies for a startup online bookstore.
 *   Evaluated frontend hosting platforms like Webflow and Weebly to design a responsive, user-friendly storefront architecture.
